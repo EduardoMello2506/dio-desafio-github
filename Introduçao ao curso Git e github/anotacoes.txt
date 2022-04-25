@@ -1,0 +1,8 @@
+link download git https://git-scm.com/downloads
+
+Open Source
+The content on this site is pulled from multiple sources. It is available under various licenses, and bugs reports should be directed to the appropriate repositories:
+Most of the "base" site content is hosted in the git/git-scm.com repository at GitHub. That includes all pages except the book and manpages, along with the general design of the site. This content is available under the MIT license. Bug reports and suggestions may be made in that repository.
+Content from the ProGit book is imported from the progit/progit2 repository, which is available under a Creative Commons CC-BY-NC-SA license, as specified in the progit2 repository. Bug reports and suggestions on the technical content or English language version of the book should be made in the progit2 repository. Fixes for translated versions of the book should be made in the appropriate language-specific repository.
+The reference manual is imported from the Git project, and is available under the GPL. Bug reports and suggestions should be made to the upstream Git community.
+Bugs in the Git software itself should similarly go to the Git community.
